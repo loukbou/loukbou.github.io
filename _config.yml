@@ -1,7 +1,7 @@
 title: Loukili Bouchra
 description: Business Intelligence & Analytics Student | Data Enthusiast | Tech Explorer
-show_download: false
-theme: jekyll-theme-minima
+show_download: true
+theme: jekyll-theme-architect
 
 # Social Media Links
 social:
@@ -16,5 +16,3 @@ author:
   email: loukilib357@example.com
   phone: +212707703956
   #avatar: /assets/avatar.png  # Path to your profile picture
-
-
