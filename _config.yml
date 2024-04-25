@@ -15,10 +15,6 @@ author:
   location: Agadir, Morocco
   email: loukilib357@example.com
   phone: +212707703956
-  avatar: /assets/avatar.png  # Path to your profile picture
+  #avatar: /assets/avatar.png  # Path to your profile picture
 
-# Navigation Links
-nav:
-  - title: Home
-    url: /
 
