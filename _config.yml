@@ -1,4 +1,24 @@
 title: Loukili Bouchra
-description: Business Intelligence & Analytics Student
+description: Business Intelligence & Analytics Student | Data Enthusiast | Tech Explorer
 show_download: true
 theme: jekyll-theme-minima
+
+# Social Media Links
+social:
+  github_username: loukbou
+  linkedin_username: Bouchra Loukili
+
+# Site Metadata
+author:
+  name: Loukili Bouchra
+  bio: "Passionate about leveraging data for actionable insights. Currently exploring the realms of Business Intelligence and Analytics."
+  location: Agadir, Morocco
+  email: loukilib357@example.com
+  phone: +212707703956
+  avatar: /assets/avatar.png  # Path to your profile picture
+
+# Navigation Links
+nav:
+  - title: Home
+    url: /
+
