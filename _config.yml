@@ -1,6 +1,6 @@
 title: Loukili Bouchra
 description: Business Intelligence & Analytics Student | Data Enthusiast | Tech Explorer
-show_download: true
+show_download: false
 theme: jekyll-theme-architect
 
 # Social Media Links
@@ -15,4 +15,4 @@ author:
   location: Agadir, Morocco
   email: loukilib357@example.com
   phone: +212707703956
-  #avatar: /assets/avatar.png  # Path to your profile picture
+  avatar: /assets/avatar.png  # Path to your profile picture
