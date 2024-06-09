@@ -1,19 +1,20 @@
+# Bouchra LOUKILI's Portfolio
 
-Formation académique :
+Welcome to my portfolio! Here you can find information about my projects, skills, and contact information.
 
-- Baccalauréat en Sciences Mathématiques B avec mention très bien du Lycée Mohammed VI d’Excellence à Benguerir.
-- Participation à des projets académiques, y compris la création et le déploiement d'un site web pour l'association ALESM.
-- Participation à un projet de challenge au Centre Hospitalo-Universitaire Mohammed VI à Oujda.
-- Réalisation d'un Travail d'Initiative Personnelle Encadré (TIPE) utilisant Power BI pour analyser des données et simuler la diffusion du CO dans une pièce, développant des compétences en modélisation, programmation et analyse (avec Python).
+[Visit My Portfolio](https://loukbou.github.io/repository-name/](https://loukbou.github.io/))
 
-Compétences techniques :
+## About Me
 
-- Maîtrise des langages de programmation : C, Java, Python.
-- Utilisation avancée de Power BI pour l'analyse de données et la création de tableaux de bord interactifs.
-- Connaissance de SQL pour la gestion de bases de données.
-- Expérience dans la modélisation mathématique et la simulation numérique.
+I am a passionate student in Business Intelligence and Analytics at ENSIAS, with strong skills in programming, data analysis, and web development.
 
-Certificats obtenus :
+## Projects
 
-- Qualification aux finales des Olympiades Nationales des Mathématiques(2019).
-- Obtention du DELF langue française niveau B2 avec un score de 85(2021).
+- **Site Web for ALESM**: Created and deployed a website for the ALESM association, featuring customized dashboards for each user profile and integrated Stripe payment gateway via Laravel Cashier.
+- **Data Analysis and Visualization**: Utilized Power BI to analyze hospital data and create interactive dashboards, providing strategic recommendations for Centre Hospitalo-Universitaire Mohammed VI Oujda.
+- **Interactive Data Visualization Application**: Developed an interactive data visualization application using Bokeh, with data cleaning and normalization performed using pandas and visualizations created with matplotlib.
+
+## Contact
+
+- **Email**: bouchra.loukili@example.com
+- **Phone**: 0707703956
